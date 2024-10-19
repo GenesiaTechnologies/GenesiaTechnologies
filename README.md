@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to the official GitHub Page of Genesia Technologies Ltd
+====================================================================================================================================
 
-<!--
-**GenesiaTechnologies/GenesiaTechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software and IT Servicing Company
+------------------
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  We're based in Nigeria
+* ✉️  You can contact me at [genesiatechnologies@gmail.com](mailto:genesiatechnologies@gmail.com)
+
+<a href="https://www.github.com/essohcod" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/essohcod?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
